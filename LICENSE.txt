@@ -1,3 +1,12 @@
+Everything created for this project by myself or others are licensed 
+under the MIT license, but NOTE: This repository contains material 
+from various sources which MAY NOT be licensed openly. Their rights 
+belong to rightful owners and I'm distributing them essentially without
+permission in good faith it's fair use for the material.
+ - Tapio Salonsaari
+
+------------------------------------------------------------
+
 The MIT License (MIT)
 
 Copyright (c) 2015 Tapio Salonsaari <take@nerd.fi>
@@ -19,3 +28,4 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN
 THE SOFTWARE.
+
